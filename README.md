@@ -34,9 +34,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="excel" width="40" height="40"/>
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/>
 </a>
 </p>
