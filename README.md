@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pravzenx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravzenx" height="30" width="40" /></a>
+<a href="https://twitter.com/pravzenx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="pravzenx" height="30" width="40" /></a>
 <a href="https://instagram.com/pravzenx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravzenx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praveen-prasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveen-prasanth" height="30" width="40" /></a>
 </p>
@@ -19,8 +19,11 @@
 </a>
 
 <!-- Data Libraries -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+</a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/> 
 </a>
 
 <!-- Databases -->
@@ -29,9 +32,6 @@
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
 </a> 
 
 <!-- BI / Analytics Tools -->
@@ -48,5 +48,3 @@
 </a> 
 
 </p>
-
-
