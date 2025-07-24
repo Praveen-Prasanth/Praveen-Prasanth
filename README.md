@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Prasanth A T</h1>
 <h3 align="center">A passionate Analyst from India</h3>
 
-- 📫 How to reach me **at.praveenprasanth@gmail.com**
+- 📫 Reach me **at.praveenprasanth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
